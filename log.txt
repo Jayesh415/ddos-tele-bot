@@ -1,0 +1,6 @@
+UserID: 1903021982 | Time: 2024-06-06 18:31:26.137338 | Command: /bgmi | Target: 20.198.100.217 | Port: 23551 | Time: 200
+Username: @jayesh_415
+Target: 20.198.100.217
+Port: 23551
+Time: 200
+
